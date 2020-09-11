@@ -15,7 +15,7 @@ use a grayscale image
 downsample to a manageable size
 convert it to black/white with a threshold.
 
-##Result
+## Result
 My dataset is composed of 25 training samples in total and the SVM with linear kernel produced 17 support vectors.
 
 On my M5Stick camera board, the overhead for the model is 6.8 Kb of flash and the inference takes 7ms: not that bad!
