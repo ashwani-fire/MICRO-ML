@@ -1,6 +1,9 @@
 # HandWritten DigitCLassifoer
 
-For This Project I created Train data. I made 25 Images of Digits
+For This Project I created Train data. I made 25 Images of Digits.
+Why did i choose SVM.
+Ans. SVM is very memory Efficient when it w port it to c. 
+But Now We have Its Alternative RVM(Relevance Vector Machine).
 ## Feature Extaction
 
 When dealing with images, if you use a CNN this step is often overlooked: CNNs are made on purpose to handle raw pixel values, so you just throw the image in and it is handled properly.
