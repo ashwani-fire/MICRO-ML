@@ -1,7 +1,9 @@
 # HandWritten DigitCLassifoer
 
 For This Project I created Train data. I made 25 Images of Digits.
-Why did i choose SVM.
+Why Support Vector Machines? Because they're really good at classifying highly-dimensional features and are quite easy to optimize for RAM-constrained environments (check the tutorial on Gesture identification which has 90 features!)
+
+
 Ans. SVM is very memory Efficient when it w port it to c. 
 But Now We have Its Alternative RVM(Relevance Vector Machine).
 ## Feature Extaction
